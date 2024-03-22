@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC_Libreria
 build_property.RootNamespace = MVC_Libreria
-build_property.ProjectDir = D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\
+build_property.ProjectDir = /home/riwip5-023/Documents/leo/libreria/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria
+build_property.MSBuildProjectDirectory = /home/riwip5-023/Documents/leo/libreria
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/Informe/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtZVxJbmRleC5jc2h0bWw=
+[/home/riwip5-023/Documents/leo/libreria/Views/Informe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5mb3JtZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/Prestamo/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9caW5kZXguY3NodG1s
+[/home/riwip5-023/Documents/leo/libreria/Views/Prestamo/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/Prestamo/Prestamo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cUHJlc3RhbW8uY3NodG1s
+[/home/riwip5-023/Documents/leo/libreria/Views/Prestamo/Prestamo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vUHJlc3RhbW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/Prestamo/Renovar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cUmVub3Zhci5jc2h0bWw=
+[/home/riwip5-023/Documents/leo/libreria/Views/Prestamo/Renovar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vUmVub3Zhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/riwip5-023/Documents/leo/libreria/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/riwip5-023/Documents/leo/libreria/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/User/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+[/home/riwip5-023/Documents/leo/libreria/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/User/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+[/home/riwip5-023/Documents/leo/libreria/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/User/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+[/home/riwip5-023/Documents/leo/libreria/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/riwip5-023/Documents/leo/libreria/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/riwip5-023/Documents/leo/libreria/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Administrador/Documents/trabajos riwi/c\#/MVC Libreria/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-n91h6vrf0e
+[/home/riwip5-023/Documents/leo/libreria/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-35e7jgxjji
