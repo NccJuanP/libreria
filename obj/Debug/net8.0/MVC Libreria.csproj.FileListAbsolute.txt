@@ -1,0 +1,30 @@
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\appsettings.Development.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\appsettings.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\MVC Libreria.staticwebassets.runtime.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\MVC Libreria.exe
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\MVC Libreria.deps.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\MVC Libreria.runtimeconfig.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\MVC Libreria.dll
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\bin\Debug\net8.0\MVC Libreria.pdb
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.AssemblyInfoInputs.cache
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.AssemblyInfo.cs
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.csproj.CoreCompileInputs.cache
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.MvcApplicationPartsAssemblyInfo.cache
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.RazorAssemblyInfo.cache
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.RazorAssemblyInfo.cs
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\staticwebassets.build.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\staticwebassets.development.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\staticwebassets\msbuild.MVC Libreria.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Libreria.props
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Libreria.props
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Libreria.props
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\scopedcss\bundle\MVC Libreria.styles.css
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\scopedcss\projectbundle\MVC Libreria.bundle.scp.css
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.dll
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\refint\MVC Libreria.dll
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.pdb
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\MVC Libreria.genruntimeconfig.cache
+D:\Administrador\Documents\trabajos riwi\c#\MVC Libreria\obj\Debug\net8.0\ref\MVC Libreria.dll

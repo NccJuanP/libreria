@@ -1,0 +1,164 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <center>
+                        <h4>Usuarios Activos</h4>
+                        <p>47</p>
+                        <button type="button" class="btn btn-primary" onclick="aparecer()">Consultar</button>
+                </center>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <center>
+                        <h4>Usuarios Inactivos</h4>
+                        <p>47</p>
+                        <button type="button" class="btn btn-primary">Consultar</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <center>
+                        <h4>Libros Disponibles</h4>
+                        <p>47</p>
+                        <button type="button" class="btn btn-primary">Consultar</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <center>
+                        <h4>Libros Prestados</h4>
+                        <p>47</p>
+                        <button type="button" class="btn btn-primary">Consultar</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <center>
+                        <h4>Prestamos Retrasados</h4>
+                        <p>47</p>
+                        <button type="button" class="btn btn-primary">Consultar</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-5" style="display: none;" id="tablas">
+    <div class="row mt-2">
+        <div class="card">
+            <div class="card-body">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Nombre</th>
+                            <th scope="col">Dirección</th>
+                            <th scope="col">Contacto</th>
+                            <th scope="col">Correo</th>
+                            <th scope="col">Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Juan Pablo Londoño Calle</th>
+                            <td>Cl 65 f #47 -36</td>
+                            <td>3007429713</td>
+                            <td>juanpablolc414@gmail.com</td>
+                            <td>
+                                <div class="btn-group" role="group" aria-label="Basic outlined example">
+                                   <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Detalles</button>
+                                    <button type="button" class="btn btn-outline-primary">Editar</button>
+                                    <button type="button" class="btn btn-outline-primary">Eliminar</button>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">María Fernanda López García</th>
+                            <td>Av. 15 #23-45</td>
+                            <td>3105872369</td>
+                            <td>mariafernanda.lg@gmail.com</td>
+                            <td>
+                                <div class="btn-group" role="group" aria-label="Basic outlined example">
+                                   <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Detalles</button>
+                                    <button type="button" class="btn btn-outline-primary">Editar</button>
+                                    <button type="button" class="btn btn-outline-primary">Eliminar</button>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Alejandro Gómez Pérez</th>
+                            <td>Calle 20 #10-15</td>
+                            <td>3156987452</td>
+                            <td>alejandrogp@hotmail.com</td>
+                            <td>
+                                <div class="btn-group" role="group" aria-label="Basic outlined example">
+                                   <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Detalles</button>
+                                    <button type="button" class="btn btn-outline-primary">Editar</button>
+                                    <button type="button" class="btn btn-outline-primary">Eliminar</button>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Ana María Ramírez Rodríguez</th>
+                            <td>Carrera 30 #45-67</td>
+                            <td>3001234567</td>
+                            <td>anamaria.rr@gmail.com</td>
+                            <td>
+                                <div class="btn-group" role="group" aria-label="Basic outlined example">
+                                   <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Detalles</button>
+                                    <button type="button" class="btn btn-outline-primary">Editar</button>
+                                    <button type="button" class="btn btn-outline-primary">Eliminar</button>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Carlos Andrés Sánchez Ruiz</th>
+                            <td>Calle 50 #12-34</td>
+                            <td>3209876543</td>
+                            <td>carlos.sr@gmail.com</td>
+                            <td>
+                                <div class="btn-group" role="group" aria-label="Basic outlined example">
+                                   <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Detalles</button>
+                                    <button type="button" class="btn btn-outline-primary">Editar</button>
+                                    <button type="button" class="btn btn-outline-primary">Eliminar</button>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Luisa Fernanda Martínez Vargas</th>
+                            <td>Carrera 25 #56-78</td>
+                            <td>3176543210</td>
+                            <td>luisafmv@yahoo.com</td>
+                            <td>
+                                <div class="btn-group" role="group" aria-label="Basic outlined example">
+                                   <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Detalles</button>
+                                    <button type="button" class="btn btn-outline-primary">Editar</button>
+                                    <button type="button" class="btn btn-outline-primary">Eliminar</button>
+                                </div>
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
