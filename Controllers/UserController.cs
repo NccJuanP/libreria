@@ -17,8 +17,6 @@ namespace Mvc.Controllers{
             return View();
         }
 
-        public IActionResult Gestion(){
-            return View();
-        }
+      
     }
 }

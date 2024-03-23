@@ -90,4 +90,11 @@ header {
 .menu-title
 {
     margin-bottom: 50px;
+    font-size: 28px;
+}
+
+.menu-item,
+.menu-title {
+    padding: 10px 20px;
+    margin-bottom: 20px; /* Cambié el valor a 20px para que sea consistente */
 }
