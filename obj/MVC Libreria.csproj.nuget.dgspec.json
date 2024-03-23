@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-023/Documents/leo/libreria/MVC Libreria.csproj": {}
+    "C:\\Users\\yeifr\\OneDrive\\Documentos\\leo\\libreria\\MVC Libreria.csproj": {}
   },
   "projects": {
-    "/home/riwip5-023/Documents/leo/libreria/MVC Libreria.csproj": {
+    "C:\\Users\\yeifr\\OneDrive\\Documentos\\leo\\libreria\\MVC Libreria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5-023/Documents/leo/libreria/MVC Libreria.csproj",
+        "projectUniqueName": "C:\\Users\\yeifr\\OneDrive\\Documentos\\leo\\libreria\\MVC Libreria.csproj",
         "projectName": "MVC Libreria",
-        "projectPath": "/home/riwip5-023/Documents/leo/libreria/MVC Libreria.csproj",
-        "packagesPath": "/home/riwip5-023/.nuget/packages/",
-        "outputPath": "/home/riwip5-023/Documents/leo/libreria/obj/",
+        "projectPath": "C:\\Users\\yeifr\\OneDrive\\Documentos\\leo\\libreria\\MVC Libreria.csproj",
+        "packagesPath": "C:\\Users\\yeifr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yeifr\\OneDrive\\Documentos\\leo\\libreria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip5-023/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yeifr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/riwip5-023/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

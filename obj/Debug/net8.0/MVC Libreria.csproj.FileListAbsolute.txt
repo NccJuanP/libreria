@@ -59,3 +59,34 @@ D:/Administrador/Documents/trabajos riwi/c#/MVC Libreria/obj/Debug/net8.0/ref/MV
 /home/riwip5-023/Documents/leo/libreria/obj/Debug/net8.0/MVC Libreria.pdb
 /home/riwip5-023/Documents/leo/libreria/obj/Debug/net8.0/MVC Libreria.genruntimeconfig.cache
 /home/riwip5-023/Documents/leo/libreria/obj/Debug/net8.0/ref/MVC Libreria.dll
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\appsettings.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\MVC Libreria.staticwebassets.runtime.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\MVC Libreria.exe
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\MVC Libreria.deps.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\MVC Libreria.runtimeconfig.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\MVC Libreria.dll
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\bin\Debug\net8.0\MVC Libreria.pdb
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.AssemblyInfoInputs.cache
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.AssemblyInfo.cs
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.csproj.CoreCompileInputs.cache
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.RazorAssemblyInfo.cache
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.RazorAssemblyInfo.cs
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.sourcelink.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\staticwebassets\msbuild.MVC Libreria.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Libreria.props
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Libreria.props
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Libreria.props
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\scopedcss\bundle\MVC Libreria.styles.css
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\scopedcss\projectbundle\MVC Libreria.bundle.scp.css
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.dll
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\refint\MVC Libreria.dll
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.pdb
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\MVC Libreria.genruntimeconfig.cache
+C:\Users\yeifr\OneDrive\Documentos\leo\libreria\obj\Debug\net8.0\ref\MVC Libreria.dll
