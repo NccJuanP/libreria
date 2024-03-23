@@ -12,5 +12,13 @@ namespace Mvc.Controllers{
         public IActionResult Edit(){
             return View();
         }
+        
+        public IActionResult GstLibros(){
+            return View();
+        }
+
+        public IActionResult Gestion(){
+            return View();
+        }
     }
 }
